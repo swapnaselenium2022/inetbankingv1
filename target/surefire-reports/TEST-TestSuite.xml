@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="3.399" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="2.096" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="inetbankingV1_MavenProject"/>
@@ -11,7 +11,7 @@
     <property name="HUDSON_SERVER_COOKIE" value="af3b95c110bfc030"/>
     <property name="os.name" value="Windows 10"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\classes"/>
-    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
     <property name="sun.desktop" value="windows"/>
     <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
@@ -86,7 +86,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\apache-maven-3.8.6-bin\apache-maven-3.8.6"/>
     <property name="java.class.path" value="C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\apache-maven-3.8.6-bin\apache-maven-3.8.6\boot\plexus-classworlds-2.6.0.jar;C:\apache-maven-3.8.6-bin\apache-maven-3.8.6/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\apache-maven-3.8.6-bin\apache-maven-3.8.6\ C:\ProgramData\Jenkins\war\WEB-INF\lib\remoting-4.13.2.jar C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 58108"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\apache-maven-3.8.6-bin\apache-maven-3.8.6\ C:\ProgramData\Jenkins\war\WEB-INF\lib\remoting-4.13.2.jar C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 54643"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_211/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin;C:\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin;C:\apache-maven-3.8.6-bin\apache-maven-3.8.6\\bin;C:\Program Files\Java\jdk1.8.0_211\lib;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
@@ -132,5 +132,5 @@
     <property name="PSModulePath" value="C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX"/>
     <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
   </properties>
-  <testcase name="loginTest" classname="com.inetbanking.testCases.TC_LoginTest_001" time="3.399"/>
+  <testcase name="loginTest" classname="com.inetbanking.testCases.TC_LoginTest_001" time="2.096"/>
 </testsuite>

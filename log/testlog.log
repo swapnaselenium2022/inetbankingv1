@@ -451,3 +451,7 @@
 2022-07-13 18:13:59,767 - ebanking -INFO - Entered username
 2022-07-13 18:13:59,853 - ebanking -INFO - Entered password
 2022-07-13 18:14:03,054 - ebanking -INFO - Login test passed
+2022-07-15 13:00:52,631 - ebanking -INFO - URL is opened
+2022-07-15 13:00:52,765 - ebanking -INFO - Entered username
+2022-07-15 13:00:52,866 - ebanking -INFO - Entered password
+2022-07-15 13:00:54,725 - ebanking -INFO - Login test passed
